@@ -36,8 +36,11 @@ qu'il contient.
 Pour chaque sujet : ce que c'est en une phrase, pourquoi ça compte pour un PM, et UNE chose concrète à
 tester cette semaine. La section « à prendre avec des pincettes » n'est jamais vide.
 
-ÉTAPE 5 — Livraison
-1. Crée un BROUILLON Slack dans #ressource-veille avec le message. Ne poste pas directement.
+ÉTAPE 5 — Livraison 
+1. Poste un message Slack dans le canal privé #ressource-veille (workspace Ledger,
+   ID de canal C0BV001301G) avec le message.
+   Si tu ne parviens pas à résoudre ce canal, arrête-toi et dis-le explicitement
+   plutôt que d'écrire dans un autre canal.
 2. Écris le même texte dans archives/AAAA-MM-JJ.md, avec en tête la liste des sujets écartés et la
    raison en une ligne chacun, puis pousse sur une branche claude/veille-AAAA-MM-JJ et ouvre une PR.
 
