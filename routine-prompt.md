@@ -44,7 +44,7 @@ tester cette semaine. La section « à prendre avec des pincettes » n'est jamai
 2. Écris le même texte dans archives/AAAA-MM-JJ.md, avec en tête la liste des sujets écartés et la
    raison en une ligne chacun, puis pousse sur une branche claude/veille-AAAA-MM-JJ et ouvre une PR.
 
-SUCCÈS = un brouillon Slack de 20 lignes maximum, 2 à 3 sujets sourcés en primaire, aucun doublon avec
+SUCCÈS = un message Slack de 20 lignes maximum, 2 à 3 sujets sourcés en primaire, aucun doublon avec
 les archives, et le fichier d'archive commité. Si tu ne peux pas atteindre ça, explique précisément ce
 qui a bloqué au lieu de livrer un message dégradé.
 ```
